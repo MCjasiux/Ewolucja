@@ -3,8 +3,29 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8aad39f5-f110-4d99-b99a-42193b8d658d" name="Default Changelist" comment="" />
+    <list default="true" id="8aad39f5-f110-4d99-b99a-42193b8d658d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +80,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -73,6 +97,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -116,71 +142,34 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="249" y="0" key="#Project_Structure" timestamp="1607607465908">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="332" key="GridCell.Tab.0.bottom" timestamp="1654027754310">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1607607465908" />
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608377719809">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="332" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1654027754310" />
+    <state width="1877" height="332" key="GridCell.Tab.0.center" timestamp="1654027754310">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1608377719809" />
-    <state x="682" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1608568758341">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="332" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1654027754310" />
+    <state width="1877" height="332" key="GridCell.Tab.0.left" timestamp="1654027754310">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="682" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1608568758341" />
-    <state width="1493" height="250" key="GridCell.Tab.0.bottom" timestamp="1608574544238">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="332" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1654027754310" />
+    <state width="1877" height="332" key="GridCell.Tab.0.right" timestamp="1654027754310">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="250" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608574544238" />
-    <state width="1493" height="250" key="GridCell.Tab.0.center" timestamp="1608574544238">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="250" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608574544238" />
-    <state width="1493" height="250" key="GridCell.Tab.0.left" timestamp="1608574544238">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="250" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608574544238" />
-    <state width="1493" height="250" key="GridCell.Tab.0.right" timestamp="1608574544238">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="250" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608574544238" />
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1608559874414">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608559874414" />
-    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1608559874414">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608559874414" />
-    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1608559874414">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608559874414" />
-    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1608559874414">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608559874414" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1608054657192">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608054657192" />
-    <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1607616065309">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="584" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1607616065309" />
-    <state x="562" y="159" key="refactoring.ChangeSignatureDialog" timestamp="1608568770865">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="562" y="159" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1608568770865" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1608559388093">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1608559388093" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1608565751149">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1608565751149" />
+    <state width="1877" height="332" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1654027754310" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/EwolucjaGradle$EwolucjaGradle__run_.ic" NAME="EwolucjaGradle [run] Coverage Results" MODIFIED="1608496790630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
